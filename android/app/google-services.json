@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "882510202701",
+    "project_id": "vogecommercedemo",
+    "storage_bucket": "vogecommercedemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882510202701:android:ba9168275982cdd8aa5904",
+        "android_client_info": {
+          "package_name": "com.example.vog_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882510202701-8a5c2uefflqiprp2hcas0b09n6enevv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vog_demo",
+            "certificate_hash": "57ea77e03a9c02374c603fbed2a2cc541176e0e1"
+          }
+        },
+        {
+          "client_id": "882510202701-fm49hrldjf5d3fgqrh755b06710a9qks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_aSWpcLjQQpYWL4AjoLqIMqal-LGtrBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882510202701-fm49hrldjf5d3fgqrh755b06710a9qks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
